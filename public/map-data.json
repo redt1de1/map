@@ -31,6 +31,26 @@
       "note": "",
       "sizeScale": 1,
       "customImage": null
+    },
+    {
+      "id": 1775395029807,
+      "name": "캐릭터",
+      "x": 668.9180064308681,
+      "y": 573.9163987138263,
+      "color": "#ef4444",
+      "note": "",
+      "sizeScale": 1,
+      "customImage": null
+    },
+    {
+      "id": 1775395030081,
+      "name": "캐릭터",
+      "x": 745.4710610932475,
+      "y": 428.21864951768487,
+      "color": "#ef4444",
+      "note": "",
+      "sizeScale": 1,
+      "customImage": null
     }
   ],
   "lines": [],
